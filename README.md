@@ -1,11 +1,13 @@
 # HW7 Quantopian trading strategy #
 ## output ##
-###### Return = 480.58% 
+###### Total Return = 480.58%
+###### Benchmark Returns = 59.33%
 ###### Alpha = 0.31 
 ###### Beta = 1.68 
-###### Sharpe = 1.35 
-###### Drawdown = -44.23%
-
+###### Sharpe = 1.35
+###### Sortino = 1.99
+###### Volatility = 0.38
+###### Max Drawdown = -44.23%
 ## code ##
 
     def initialize(context):
