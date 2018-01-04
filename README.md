@@ -1,5 +1,5 @@
 # Quantopian #
-#### output ####
+## output ##
 ###### Return = 480.58% 
 ###### Alpha = 0.31 
 ###### Beta = 1.68 
