@@ -1,4 +1,4 @@
-# Quantopian #
+# HW7 Quantopian trading strategy #
 ## output ##
 ###### Return = 480.58% 
 ###### Alpha = 0.31 
@@ -6,7 +6,7 @@
 ###### Sharpe = 1.35 
 ###### Drawdown = -44.23%
 
-#### code ####
+## code ##
 
     def initialize(context):
         # In our example, we're looking at MSFT and COKE.  If you re-type 
