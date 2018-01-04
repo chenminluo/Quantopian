@@ -1,6 +1,6 @@
 # Quantopian #
 #### output
-###### Return = 480.58%
+###### /Return = 480.58%/
 ###### Alpha = 0.31
 ###### Beta = 1.68
 ###### Sharpe = 1.35
