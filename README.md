@@ -1,12 +1,12 @@
 # Quantopian #
-## output
-##### -Return = 480.58%
-##### -Alpha = 0.31
-##### -Beta = 1.68
-##### -Sharpe = 1.35
-##### -Drawdown = -44.23%
+#### output
+###### Return = 480.58%
+###### Alpha = 0.31
+###### Beta = 1.68
+###### Sharpe = 1.35
+###### Drawdown = -44.23%
 
-## code
+#### code
 
     def initialize(context):
         # In our example, we're looking at MSFT and COKE.  If you re-type 
