@@ -52,9 +52,9 @@
             if data.can_trade(stock):
             
             # If the current price is 1% above the 5-day average price 
-            # and current volume above the average volume, 
+            # and current volume below the average volume, 
             # we open a long position. If the current price is 1% below the 
-            # average price and current volume blow the average volume, then we           
+            # average price and current volume above the average volume, then we           
             # want to close our position to 0 shares.
             
                 if current_price > (1.01 * average_price):
